@@ -1,10 +1,9 @@
 aid: moveyou
 name: MoveYou
 description: >-
-  Our scaled based platform meets all your business requirements in the fields
-  of mobility and energy. Explore the powerful solutions or consult one of our
-  experts for advice. Together, we are building a sustainable future for your
-  organization. 
+  Our scaled based platform meets all your business requirements in the fields of
+  mobility and energy. Explore the powerful solutions or consult one of our experts
+  for advice. Together, we are building a sustainable future for your organization.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -20,10 +19,10 @@ apis:
   - aid: moveyou:moveyou
     name: MoveYou
     description: >-
-      Our scaled based platform meets all your business requirements in the
-      fields of mobility and energy. Explore the powerful solutions or consult
-      one of our experts for advice. Together, we are building a sustainable
-      future for your organization. 
+      Our scaled based platform meets all your business requirements in the fields
+      of mobility and energy. Explore the powerful solutions or consult one of our
+      experts for advice. Together, we are building a sustainable future for your
+      organization.
     humanURL: ' https://moveyou.com/'
     tags:
       - API
