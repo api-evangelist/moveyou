@@ -33,6 +33,45 @@ apis:
     properties:
       - type: Documentation
         url: 'https://moveyou.com/'
+common:
+  - type: Integrations
+    url: https://moveyou.com/integrations/
+integrations:
+  - name: MoveYou
+  - name: menu customer management
+  - name: Menu card management
+  - name: menu order management
+  - name: Menu collecting and invoicing
+  - name: menu payments
+  - name: Wallets and Vouchers
+  - name: menu loyalty
+  - name: menu mobility
+  - name: menu energy
+  - name: menu connected fleet
+  - name: Menu forecourt management
+  - name: Icon 6
+  - name: Fuel Retailers
+  - name: e mobility Providers
+  - name: CPO
+  - name: Others
+  - name: Worldline SA logo.svg
+  - name: Unknown 3
+  - name: 0015909 paypal standard
+  - name: Visa 2021.svg
+  - name: Mastercard logo.svg
+  - name: images 1
+  - name: f6b15045e8f778538ebbd5a8500584b9
+  - name: Unknown 1
+  - name: ifsf
+  - name: hectronic
+  - name: Unknown 2
+  - name: Twinfield Koppelingen Bizcuit 400x200 1
+  - name: logo Carbu positif NL scaled
+  - name: Dahua Technology logo.svg
+  - name: Logo NS
+  - name: ParkBee
+  - name: KVK
+  - name: ISO Certifications
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
