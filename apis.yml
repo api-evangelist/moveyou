@@ -34,6 +34,8 @@ apis:
       - type: Documentation
         url: 'https://moveyou.com/'
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/moveyou
   - type: Integrations
     url: https://moveyou.com/integrations/
 integrations:
