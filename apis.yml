@@ -38,7 +38,7 @@ common:
     url: https://www.linkedin.com/company/moveyou
   - type: Integrations
     url: https://moveyou.com/integrations/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://moveyou.com/llms.txt
 integrations:
   - name: MoveYou
