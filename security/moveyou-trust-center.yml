@@ -1,0 +1,13 @@
+generated: '2026-07-11'
+method: searched
+probe: true
+source: https://moveyou.com/security/
+url: https://moveyou.com/security/
+certifications:
+- ISO 27001
+- GDPR
+evidence:
+- source: https://moveyou.com/security/
+  keywords:
+  - iso/iec 27001
+  - gdpr

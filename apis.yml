@@ -34,12 +34,18 @@ apis:
       - type: Documentation
         url: 'https://moveyou.com/'
 common:
+  - type: TrustCenter
+    url: security/moveyou-trust-center.yml
+  - type: DomainSecurity
+    url: security/moveyou-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/moveyou
   - type: Integrations
     url: https://moveyou.com/integrations/
   - type: LlmsText
     url: https://moveyou.com/llms.txt
+  - url: https://moveyou.com/feed/
+    type: Blog
 integrations:
   - name: MoveYou
   - name: menu customer management
