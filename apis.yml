@@ -5,6 +5,17 @@ description: >-
   mobility and energy. Explore the powerful solutions or consult one of our experts
   for advice. Together, we are building a sustainable future for your organization.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
