@@ -57,6 +57,8 @@ apis:
       - type: Documentation
         url: 'https://moveyou.com/'
 common:
+  - type: Website
+    url: https://www.moveyou.com/
   - type: TrustCenter
     url: security/moveyou-trust-center.yml
   - type: DomainSecurity
