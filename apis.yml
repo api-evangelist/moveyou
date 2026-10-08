@@ -57,6 +57,12 @@ apis:
       - type: Documentation
         url: 'https://moveyou.com/'
 common:
+  - type: Plans
+    url: plans/moveyou-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/moveyou-rate-limits.yml
+  - type: FinOps
+    url: finops/moveyou-finops.yml
   - type: Website
     url: https://www.moveyou.com/
   - type: TrustCenter
